@@ -20,6 +20,14 @@ Our project aims to develop an innovative robot designed to interact with and gu
 - **do a pull request and I will validate your updates and accept them**
 
 ### how to install the project
+
+**requirements :** 
+- **python version 3.12 or up**
+- **CPU 1.8Hz or up**
+- **good RAM is better**
+
+**steps :** 
+
 after fork, it, you can start adding your ideas by clone it into your computer
 with gir command :
 ```bash
@@ -38,6 +46,17 @@ I have already create ``requirements.txt`` file for you, this file contain all t
 so you will tell python to install the dependencies from this file :
 ```bash
 pip install -r requirements.txt
+```
+
+and run the project with :
+```shell
+python main.py
+```
+
+or
+
+```shell
+py main.py
 ```
 
 you all set ! , do all your best
