@@ -18,3 +18,26 @@ Our project aims to develop an innovative robot designed to interact with and gu
 - **modify the project and add ur powerful ideas**
 - **push the update to your repository**
 - **do a pull request and I will validate your updates and accept them**
+
+### how to install the project
+after fork, it, you can start adding your ideas by clone it into your computer
+with gir command :
+```bash
+git clone https://github.com/<your_GitHub_username>/MentoTron.git
+```
+
+then you need to start a virtual environment, t is easy you just 
+need to have python installed in your pc and execute this command from inside your project :
+
+```bash
+python -m venv ./venv
+```
+
+then install the necessary dependencies to run the project, don't worry, 
+I have already create ``requirements.txt`` file for you, this file contain all the dependencies you need, 
+so you will tell python to install the dependencies from this file :
+```bash
+pip install -r requirements.txt
+```
+
+you all set ! , do all your best
